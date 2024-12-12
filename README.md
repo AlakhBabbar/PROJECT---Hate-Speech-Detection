@@ -10,4 +10,4 @@ Data Preprocessing:
 
 -->>Tokenization and stopwords removal.
 
--->>Lemmatization and stemming.
+-->>Lemmatization and stemming
